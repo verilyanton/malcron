@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/malcron/static/css/main.ae42ac5f.css",
-    "main.js": "/malcron/static/js/main.6a3c6799.js",
+    "main.js": "/malcron/static/js/main.212a16af.js",
     "static/js/453.6cb25a67.chunk.js": "/malcron/static/js/453.6cb25a67.chunk.js",
     "index.html": "/malcron/index.html",
     "main.ae42ac5f.css.map": "/malcron/static/css/main.ae42ac5f.css.map",
-    "main.6a3c6799.js.map": "/malcron/static/js/main.6a3c6799.js.map",
+    "main.212a16af.js.map": "/malcron/static/js/main.212a16af.js.map",
     "453.6cb25a67.chunk.js.map": "/malcron/static/js/453.6cb25a67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.6a3c6799.js"
+    "static/js/main.212a16af.js"
   ]
 }

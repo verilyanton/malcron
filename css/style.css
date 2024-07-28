@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../../img/intro-bg.jpg) center center no-repeat;
+  background: url(https://verilyanton.github.io/malcron/img/intro-bg.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -236,8 +236,7 @@ a:focus,
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
-  margin: 0 auto;
-  margin-bottom: 60px;
+  margin: 0 auto 60px;
 }
 header .intro-text {
   padding-top: 350px;
@@ -603,4 +602,9 @@ label {
   #about img {
     margin: 50px 0;
   }
+}
+
+img.logo {
+  margin-top: -1em;
+  padding-right: 1em;
 }
