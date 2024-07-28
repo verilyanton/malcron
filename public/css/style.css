@@ -79,6 +79,7 @@ hr {
   background-color: #fff;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  text-align: right;
 }
 #menu a.navbar-brand {
   font-family: "Raleway", sans-serif;
@@ -208,8 +209,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(https://verilyanton.github.io/malcron/img/intro-bg.png) center center no-repeat;
-  background-color: #e5e5e5;
+  background: #e5e5e5 url(https://verilyanton.github.io/malcron/img/intro-bg.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -286,6 +286,10 @@ header .intro-text {
   margin-left: 6px;
   list-style: none;
   padding: 0;
+}
+#about .about-text p {
+  text-align: justify;
+  text-justify: newspaper;
 }
 #about .about-text li:before {
   content: "\f00c";
@@ -398,12 +402,12 @@ header .intro-text {
 .hover-bg:hover .hover-text {
   opacity: 1;
 }
-/* Testimonials Section */
-#testimonials {
+/* Events Section */
+#events {
   padding: 100px 0;
   background: #f6f6f6;
 }
-#testimonials i {
+#events i {
   color: #e6e6e6;
   font-size: 32px;
   margin-bottom: 20px;
@@ -441,9 +445,28 @@ header .intro-text {
 /* Team Section */
 #team {
   padding: 100px 0;
+  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  color: #fff;
+}
+#team h2 {
+  color: #fff;
+}
+#team .section-title h2::after {
+  position: absolute;
+  content: "";
+  background: rgba(255, 255, 255, 0.3);
+  height: 4px;
+  width: 60px;
+  bottom: 0;
+  margin-left: -30px;
+  left: 50%;
 }
 #team h4 {
   margin: 5px 0;
+  color: #fff;
+}
+#team p {
+  color: #fff;
 }
 #team .team-img {
   width: 240px;

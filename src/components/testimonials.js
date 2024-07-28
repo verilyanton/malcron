@@ -1,8 +1,8 @@
 import React from "react";
 
-export const Testimonials = (props) => {
+export const Events = (props) => {
   return (
-    <div id="testimonials">
+    <div id="events">
       <div className="container">
         <div className="section-title text-center">
           <h2>What our clients say</h2>
@@ -14,7 +14,7 @@ export const Testimonials = (props) => {
                   <div className="testimonial">
                     <div className="testimonial-image">
                       {" "}
-                      <img src={d.img} alt="" />{" "}
+                      {/*<img src={d.img} alt="" />{" "}*/}
                     </div>
                     <div className="testimonial-content">
                       <p>"{d.text}"</p>

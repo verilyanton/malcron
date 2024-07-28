@@ -4,60 +4,31 @@
     "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "intro": "Asociația de Cercetare a Maladiilor Cronice a fost fondată în 2010 de un grup de doctori tineri ca unica organizație multidisciplinara medicala în Republica Moldova. Scopul principal a organizației este abordarea multidisciplinara integrata a maladiilor cronice netransmisibile, precum diabetul, maladii cardiovasculare etc.",
+    "mission": "Created to promote an integrated multidisciplinary approach to chronic noncommunicable diseases, such as diabetes, cardiovascular diseases, eye and dental diseases.",
+    "history": "Founded in 2010 by a group of young medical specialists, ASCD is the first multidisciplinary medical association in Moldova.",
+    "focusAreas": "Prevention and access to care for people suffering of: Diabetes and Tuberculosis",
+    "mainAchievements": [
+        "Establishing the national diabetes centre",
+        "Developing screening protocols",
+        "120 nurses trained",
+        "30000+ people screened, counseled and treated",
+        "1500+ people trained",
+        "100+ specialists trained",
+        "2 million people sensitised"
+    ],
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Lorem ipsum dolor"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Aliquip ex ea commodo"
     ]
   },
-  "Gallery": [
+  "News": [
     {
       "title": "Project Title",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
     },
     {
       "title": "Project Title",
@@ -97,32 +68,7 @@
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
+  "Events": [
     {
       "img": "img/testimonials/06.jpg",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
@@ -132,30 +78,60 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Natalia Palarie",
+      "job": "Founder, President"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Victor Palarie",
+      "job": "Founder"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Lorina Vudu",
+      "job": "Endocrinologist"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Ana Ciobanu",
+      "job": "TB specialist"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Elena Tudor",
+      "job": "TB specialist"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Ina Gavrilas",
+      "job": "Assistant"
+    },
+    {
+      "img": "img/team/07.jpg",
+      "name": "Silvia Palarie",
+      "job": "Assistant"
+    },
+    {
+      "img": "img/team/08.jpg",
+      "name": "Tatiana Pasenco",
+      "job": "Ophthalmologist"
+    },
+    {
+      "img": "img/team/09.jpg",
+      "name": "Eduard Bernaz",
+      "job": "Surgeon"
+    },
+    {
+      "img": "img/team/10.jpg",
+      "name": "Veronica Cernelev",
+      "job": "Endocrinologist"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "115 Vasile Lupu str., Orhei, Moldova",
+    "phone": "(+373) 795 77 976 (Natalia)",
     "email": "info@company.com",
-    "facebook": "fb.com",
+    "facebook": "https://www.facebook.com/people/Association-for-the-Study-of-Chronic-Diseases/100066375474447/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
