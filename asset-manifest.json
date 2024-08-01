@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/malcron/static/css/main.ae42ac5f.css",
-    "main.js": "/malcron/static/js/main.ecfeff92.js",
-    "static/js/453.6cb25a67.chunk.js": "/malcron/static/js/453.6cb25a67.chunk.js",
-    "index.html": "/malcron/index.html",
-    "main.ae42ac5f.css.map": "/malcron/static/css/main.ae42ac5f.css.map",
-    "main.ecfeff92.js.map": "/malcron/static/js/main.ecfeff92.js.map",
-    "453.6cb25a67.chunk.js.map": "/malcron/static/js/453.6cb25a67.chunk.js.map"
+    "main.css": "/static/css/main.ae42ac5f.css",
+    "main.js": "/static/js/main.2596acc9.js",
+    "static/js/453.6cb25a67.chunk.js": "/static/js/453.6cb25a67.chunk.js",
+    "index.html": "/index.html",
+    "main.ae42ac5f.css.map": "/static/css/main.ae42ac5f.css.map",
+    "main.2596acc9.js.map": "/static/js/main.2596acc9.js.map",
+    "453.6cb25a67.chunk.js.map": "/static/js/453.6cb25a67.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.ecfeff92.js"
+    "static/js/main.2596acc9.js"
   ]
 }
