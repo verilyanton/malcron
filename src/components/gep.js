@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Events = (props) => {
+export const GenderEqualityPlan = (props) => {
   return (
     <div id="events">
       <div className="container">

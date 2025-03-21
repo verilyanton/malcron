@@ -3,7 +3,7 @@ import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { About } from "./components/about";
 import { News } from "./components/news";
-import { Events } from "./components/testimonials";
+import { GenderEqualityPlan } from "./components/gep";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import { Footer } from "./components/Footer";
@@ -29,7 +29,7 @@ const App = () => {
       <About data={landingPageData.About} />
       <Team data={landingPageData.Team} />
       <News data={landingPageData.News} />
-      <Events data={landingPageData.Events} />
+      <GenderEqualityPlan data={landingPageData.Events} />
       <Contact data={landingPageData.Contact} />
       <Footer/>
     </div>
