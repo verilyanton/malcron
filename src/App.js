@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
 import { About } from "./components/about";
-import { News } from "./components/gallery";
+import { News } from "./components/news";
 import { Events } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
