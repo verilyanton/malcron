@@ -2,7 +2,7 @@ import React from "react";
 
 export const GenderEqualityPlan = (props) => {
   return (
-    <div id="events">
+    <div id="gep">
       <div className="container">
         <div className="section-title text-center">
           <h2>Gender Equality Plan (GEP)</h2>
